@@ -1,6 +1,6 @@
-# React + TS + Template
+# React + TS + Redux + Template
 
-Built with the React.js, TypeScript, React Router Dom, Shadcn UI
+Built with the React.js, TypeScript, Redux, RTK Query, React Router Dom, Shadcn UI
 
 ![Project Image](thumbnail.png)
 
@@ -8,6 +8,8 @@ Built with the React.js, TypeScript, React Router Dom, Shadcn UI
 
 - React.js
 - TypeScript
+- Redux Toolkit
+- RTK Query
 - React Router Dom
 - Shadcn UI
 - Handling Error Pages & Structured Pattern
@@ -17,7 +19,7 @@ Built with the React.js, TypeScript, React Router Dom, Shadcn UI
 To get started with this project, run
 
 ```bash
-  git clone https://github.com/ariefhk/react-ts-template
+  git clone https://github.com/ariefhk/react-ts-redux-template
 ```
 
 Install Dependency

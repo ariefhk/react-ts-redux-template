@@ -1,3 +1,6 @@
+/* eslint-disable @typescript-eslint/no-unsafe-return */
+/* eslint-disable @typescript-eslint/no-unsafe-argument */
+
 // Function to get data from local storage
 export const getLocalStorageData = (keyName: string) => {
   try {
